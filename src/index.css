@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: #b6c3cf;
+  color: #1e293b;
+}
+
+.table-row-transition {
+  transition: all 0.2s ease-in-out;
+}
