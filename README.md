@@ -5,8 +5,8 @@ A professional Frontend application built using **React**, **Vite**, and **Tailw
 ---
 
 ## 🚀 Live Demo & Links
-- **Live Website:** https://your-live-link.vercel.app/
-- **Source Code:** https://github.com/your-username/user-directory-dashboard
+- **Live Website:** https://user-directory-dashboard-nine.vercel.app/
+- **Source Code:** https://github.com/sravyasirapu/user-directory-dashboard
 
 ---
 
@@ -61,7 +61,8 @@ npm install
 npm run dev
 ```
 
-👉 The application will be available at: http://localhost:5173
+👉 The application will be available at : http://localhost:5173
+
 ---
 
 ## 📡 API Endpoint
@@ -71,19 +72,19 @@ GET https://jsonplaceholder.typicode.com/users
 ---
 
 ## 💎 Design & Development Highlights
-Clean Architecture: Used service layer to separate API logic from UI
-Performance Optimization: Implemented useMemo for search & sorting
-Modern UI: Built with Tailwind CSS for clean and professional design
-User Experience: Smooth navigation and interactive table UI
-Scalable Code: Component-based reusable structure
+- Clean Architecture: Used service layer to separate API logic from UI
+- Performance Optimization: Implemented useMemo for search & sorting
+- Modern UI: Built with Tailwind CSS for clean and professional design
+- User Experience: Smooth navigation and interactive table UI
+- Scalable Code: Component-based reusable structure
 
 ---
 ## 🧪 Future Enhancements
-Pagination for large datasets
-Advanced filters (Company, Location)
-Dark mode support
-Unit testing (Jest / RTL)
-API caching & optimization
+- Pagination for large datasets
+- Advanced filters (Company, Location)
+- Dark mode support
+- Unit testing (Jest / RTL)
+- API caching & optimization
 
 ---
 ## 👩‍💻 Author
